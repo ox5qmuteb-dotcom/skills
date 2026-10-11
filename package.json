@@ -138,7 +138,7 @@
     "prettier": "^3.8.1",
     "simple-git": "^3.36.0",
     "typescript": "^5.9.3",
-    "vitest": "^4.0.17",
+    "vitest": "^5.0.3",
     "xdg-basedir": "^5.1.0"
   },
   "engines": {
